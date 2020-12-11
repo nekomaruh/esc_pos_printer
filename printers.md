@@ -16,3 +16,5 @@ Thank you for your contribution!
 |[Issyzonepos 80mm Wifi Thermal Receipt](https://www.aliexpress.com/item/32985398184.html)|80mm|3.1.4|No issues graphics & barcode tested also tested)|
 |[HOIN HOP-H58 Bluetooth Thermal Cash Receipt Printer](https://www.aliexpress.com/item/32859843705.html)|58mm|3.1.4|No issues|
 |[Elgin i9 - Ethernet](https://www.americanas.com.br/produto/28943574/impressora-nao-fiscal-elgin-i9-guilhotina-usb?WT.srch=1&acc=e789ea56094489dffd798f86ff51c7a9&epar=bp_pl_00_go_inf-aces_acessorios_geral_gmv&gclid=CjwKCAjwnef6BRAgEiwAgv8mQRRqkLzg7F0l3j3rzFpYXrmi-57_YWX0OiKD5VcE7q1BG2v-qsWfyBoCF8wQAvD_BwE&i=5bac49bbeec3dfb1f8d856ec&o=5a067550eec3dfb1f8def31e&opn=YSMESP&sellerid=8829865000339)|80mm|3.2.5|No issues|
+|[YHK-C200](https://es.aliexpress.com/item/4001195150107.html?spm=a2g0s.9042311.0.0.766b63c0xd2f8G)|52mm|4.0.3|Few times works perfectly fine but usually got stucked paper in printer (or takes a lot of time printing), and seems to be a bluetooth library stream issue|
+
